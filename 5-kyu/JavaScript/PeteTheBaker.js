@@ -1,4 +1,6 @@
-function cakes(recipe, available) {
+// Kata: //www.codewars.com/kata/525c65e51bf619685c000059
+
+https: function cakes(recipe, available) {
   // create an array numbers
   // iterate over recipe
   // for every key check the value of the same key
